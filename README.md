@@ -23,7 +23,20 @@ This repository contains two AI agents for SteamNoodles restaurant feedback auto
    pip install -r requirements.txt
    ```
 4. The synthetic dataset is already included in `data/restaurant_reviews.csv`.
-5. (Optional) To generate a new sentiment plot image for your demo:
+5. Download the official model file for sentiment analysis:
+    - Go to the following link: [distilbert-base-uncased-finetuned-sst-2-english/pytorch_model.bin](https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english/resolve/main/pytorch_model.bin)
+    - Click "Download" to save the file to your computer.
+    - Create the directory `models/distilbert-base-uncased-finetuned-sst-2-english/` inside your project folder if it does not exist.
+    - Move the downloaded `pytorch_model.bin` file into this directory:
+       `models/distilbert-base-uncased-finetuned-sst-2-english/pytorch_model.bin`
+    - Your folder structure should look like:
+       ```
+       Agent-X/
+       └── models/
+             └── distilbert-base-uncased-finetuned-sst-2-english/
+                   └── pytorch_model.bin
+       ```
+6. (Optional) To generate a new sentiment plot image for your demo:
    ```powershell
    python agents/sentiment_visualization_agent.py --start_date 2025-08-01 --end_date 2025-08-10 --save_path data/sample_sentiment_plot.png
    ```

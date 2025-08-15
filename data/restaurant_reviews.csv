@@ -1,0 +1,192 @@
+text,sentiment,timestamp
+Great food, but slow service.,Negative,2025-08-01 18:30:00
+Loved the noodles!,Positive,2025-08-01 19:00:00
+Ambiance was okay.,Neutral,2025-08-02 12:15:00
+Service was excellent!,Positive,2025-08-02 13:45:00
+Food was cold.,Negative,2025-08-03 17:20:00
+Portions were generous.,Positive,2025-08-03 18:00:00
+Staff was rude.,Negative,2025-08-04 14:10:00
+Nice decor.,Neutral,2025-08-04 15:00:00
+Soup was bland.,Negative,2025-08-05 16:30:00
+Quick service!,Positive,2025-08-05 17:00:00
+The restaurant was clean.,Neutral,2025-08-06 13:00:00
+Waited too long for food.,Negative,2025-08-06 14:30:00
+Tasty desserts!,Positive,2025-08-07 19:30:00
+Music was too loud.,Negative,2025-08-07 20:00:00
+Friendly staff.,Positive,2025-08-08 12:00:00
+Average experience.,Neutral,2025-08-08 13:00:00
+Food was undercooked.,Negative,2025-08-09 18:00:00
+Loved the ambiance!,Positive,2025-08-09 19:00:00
+Tables were sticky.,Negative,2025-08-10 15:00:00
+Great value for money.,Positive,2025-08-10 16:00:00
+Delicious ramen, will come again.,Positive,2025-08-11 12:10:00
+Service could be better.,Negative,2025-08-11 13:20:00
+Nice lighting.,Neutral,2025-08-11 14:30:00
+Food was too salty.,Negative,2025-08-11 15:40:00
+Staff was attentive.,Positive,2025-08-11 16:50:00
+Average taste.,Neutral,2025-08-12 12:00:00
+Loved the spicy noodles!,Positive,2025-08-12 13:10:00
+Long wait time.,Negative,2025-08-12 14:20:00
+Clean restrooms.,Positive,2025-08-12 15:30:00
+Music was relaxing.,Neutral,2025-08-12 16:40:00
+Food was burnt.,Negative,2025-08-13 12:00:00
+Great for families.,Positive,2025-08-13 13:10:00
+Ambiance was dull.,Negative,2025-08-13 14:20:00
+Nice presentation.,Positive,2025-08-13 15:30:00
+Average service.,Neutral,2025-08-13 16:40:00
+Too crowded.,Negative,2025-08-14 12:00:00
+Loved the vegan options!,Positive,2025-08-14 13:10:00
+Food was bland.,Negative,2025-08-14 14:20:00
+Staff was friendly.,Positive,2025-08-14 15:30:00
+Decor was unique.,Neutral,2025-08-14 16:40:00
+Tasty broth and fresh veggies.,Positive,2025-08-15 12:05:00
+Service was slow.,Negative,2025-08-15 12:10:00
+Ambiance was nice.,Neutral,2025-08-15 12:15:00
+Food was overcooked.,Negative,2025-08-15 12:20:00
+Staff was very helpful.,Positive,2025-08-15 12:25:00
+Average meal.,Neutral,2025-08-15 12:30:00
+Loved the dessert!,Positive,2025-08-15 12:35:00
+Noisy environment.,Negative,2025-08-15 12:40:00
+Clean tables.,Positive,2025-08-15 12:45:00
+Decor was plain.,Neutral,2025-08-15 12:50:00
+Food was too spicy.,Negative,2025-08-15 12:55:00
+Great service!,Positive,2025-08-15 13:00:00
+Average experience.,Neutral,2025-08-15 13:05:00
+Soup was cold.,Negative,2025-08-15 13:10:00
+Friendly staff.,Positive,2025-08-15 13:15:00
+Ambiance was okay.,Neutral,2025-08-15 13:20:00
+Food was bland.,Negative,2025-08-15 13:25:00
+Loved the noodles!,Positive,2025-08-15 13:30:00
+Service was mediocre.,Neutral,2025-08-15 13:35:00
+Food was burnt.,Negative,2025-08-15 13:40:00
+Great for kids!,Positive,2025-08-15 13:45:00
+Average taste.,Neutral,2025-08-15 13:50:00
+Staff was rude.,Negative,2025-08-15 13:55:00
+Nice lighting.,Neutral,2025-08-15 14:00:00
+Portions were generous.,Positive,2025-08-15 14:05:00
+Waited too long.,Negative,2025-08-15 14:10:00
+Food was delicious!,Positive,2025-08-15 14:15:00
+Ambiance was dull.,Negative,2025-08-15 14:20:00
+Clean restrooms.,Positive,2025-08-15 14:25:00
+Music was relaxing.,Neutral,2025-08-15 14:30:00
+Soup was bland.,Negative,2025-08-15 14:35:00
+Quick service!,Positive,2025-08-15 14:40:00
+The restaurant was clean.,Neutral,2025-08-15 14:45:00
+Food was undercooked.,Negative,2025-08-15 14:50:00
+Loved the ambiance!,Positive,2025-08-15 14:55:00
+Tables were sticky.,Negative,2025-08-15 15:00:00
+Great value for money.,Positive,2025-08-15 15:05:00
+Delicious ramen, will come again.,Positive,2025-08-15 15:10:00
+Service could be better.,Negative,2025-08-15 15:15:00
+Nice decor.,Neutral,2025-08-15 15:20:00
+Food was too salty.,Negative,2025-08-15 15:25:00
+Staff was attentive.,Positive,2025-08-15 15:30:00
+Average taste.,Neutral,2025-08-15 15:35:00
+Loved the spicy noodles!,Positive,2025-08-15 15:40:00
+Long wait time.,Negative,2025-08-15 15:45:00
+Clean restrooms.,Positive,2025-08-15 15:50:00
+Music was relaxing.,Neutral,2025-08-15 15:55:00
+Food was burnt.,Negative,2025-08-15 16:00:00
+Great for families.,Positive,2025-08-15 16:05:00
+Ambiance was dull.,Negative,2025-08-15 16:10:00
+Nice presentation.,Positive,2025-08-15 16:15:00
+Average service.,Neutral,2025-08-15 16:20:00
+Too crowded.,Negative,2025-08-15 16:25:00
+Loved the vegan options!,Positive,2025-08-15 16:30:00
+Food was bland.,Negative,2025-08-15 16:35:00
+Staff was friendly.,Positive,2025-08-15 16:40:00
+Decor was unique.,Neutral,2025-08-15 16:45:00
+Amazing flavors and quick service.,Positive,2025-08-16 12:00:00
+Food was too oily.,Negative,2025-08-16 12:10:00
+Ambiance was peaceful.,Neutral,2025-08-16 12:20:00
+Staff was inattentive.,Negative,2025-08-16 12:30:00
+Loved the dessert menu!,Positive,2025-08-16 12:40:00
+Average experience overall.,Neutral,2025-08-16 12:50:00
+Soup was perfect.,Positive,2025-08-16 13:00:00
+Music was distracting.,Negative,2025-08-16 13:10:00
+Clean environment.,Positive,2025-08-16 13:20:00
+Decor was modern.,Neutral,2025-08-16 13:30:00
+Food was underseasoned.,Negative,2025-08-16 13:40:00
+Great staff!,Positive,2025-08-16 13:50:00
+Average food.,Neutral,2025-08-16 14:00:00
+Service was disappointing.,Negative,2025-08-16 14:10:00
+Friendly atmosphere.,Positive,2025-08-16 14:20:00
+Ambiance was average.,Neutral,2025-08-16 14:30:00
+Food was cold.,Negative,2025-08-16 14:40:00
+Loved the spicy ramen!,Positive,2025-08-16 14:50:00
+Service was slow.,Negative,2025-08-16 15:00:00
+Nice lighting.,Neutral,2025-08-16 15:10:00
+Portions were small.,Negative,2025-08-16 15:20:00
+Great value!,Positive,2025-08-16 15:30:00
+Average service.,Neutral,2025-08-16 15:40:00
+Food was burnt.,Negative,2025-08-16 15:50:00
+Loved the ambiance!,Positive,2025-08-16 16:00:00
+Tables were dirty.,Negative,2025-08-16 16:10:00
+Great for groups!,Positive,2025-08-16 16:20:00
+Average taste.,Neutral,2025-08-16 16:30:00
+Staff was rude.,Negative,2025-08-16 16:40:00
+Nice decor.,Neutral,2025-08-16 16:50:00
+Food was too salty.,Negative,2025-08-16 17:00:00
+Staff was attentive.,Positive,2025-08-16 17:10:00
+Average meal.,Neutral,2025-08-16 17:20:00
+Loved the noodles!,Positive,2025-08-16 17:30:00
+Long wait time.,Negative,2025-08-16 17:40:00
+Clean restrooms.,Positive,2025-08-16 17:50:00
+Music was relaxing.,Neutral,2025-08-16 18:00:00
+Food was bland.,Negative,2025-08-16 18:10:00
+Great desserts!,Positive,2025-08-16 18:20:00
+Ambiance was dull.,Negative,2025-08-16 18:30:00
+Nice presentation.,Positive,2025-08-16 18:40:00
+Average service.,Neutral,2025-08-16 18:50:00
+Too crowded.,Negative,2025-08-16 19:00:00
+Loved the vegan options!,Positive,2025-08-16 19:10:00
+Food was bland.,Negative,2025-08-16 19:20:00
+Staff was friendly.,Positive,2025-08-16 19:30:00
+Decor was unique.,Neutral,2025-08-16 19:40:00
+Excellent service and tasty food.,Positive,2025-08-17 12:00:00
+Food was too sweet.,Negative,2025-08-17 12:10:00
+Ambiance was lively.,Neutral,2025-08-17 12:20:00
+Staff was slow.,Negative,2025-08-17 12:30:00
+Loved the appetizers!,Positive,2025-08-17 12:40:00
+Average experience.,Neutral,2025-08-17 12:50:00
+Soup was flavorful.,Positive,2025-08-17 13:00:00
+Music was too loud.,Negative,2025-08-17 13:10:00
+Clean floors.,Positive,2025-08-17 13:20:00
+Decor was outdated.,Neutral,2025-08-17 13:30:00
+Food was bland.,Negative,2025-08-17 13:40:00
+Great staff!,Positive,2025-08-17 13:50:00
+Average food.,Neutral,2025-08-17 14:00:00
+Service was poor.,Negative,2025-08-17 14:10:00
+Friendly environment.,Positive,2025-08-17 14:20:00
+Ambiance was nice.,Neutral,2025-08-17 14:30:00
+Food was cold.,Negative,2025-08-17 14:40:00
+Loved the spicy soup!,Positive,2025-08-17 14:50:00
+Service was slow.,Negative,2025-08-17 15:00:00
+Nice lighting.,Neutral,2025-08-17 15:10:00
+Portions were small.,Negative,2025-08-17 15:20:00
+Great value!,Positive,2025-08-17 15:30:00
+Average service.,Neutral,2025-08-17 15:40:00
+Food was burnt.,Negative,2025-08-17 15:50:00
+Loved the ambiance!,Positive,2025-08-17 16:00:00
+Tables were dirty.,Negative,2025-08-17 16:10:00
+Great for families!,Positive,2025-08-17 16:20:00
+Average taste.,Neutral,2025-08-17 16:30:00
+Staff was rude.,Negative,2025-08-17 16:40:00
+Nice decor.,Neutral,2025-08-17 16:50:00
+Food was too salty.,Negative,2025-08-17 17:00:00
+Staff was attentive.,Positive,2025-08-17 17:10:00
+Average meal.,Neutral,2025-08-17 17:20:00
+Loved the noodles!,Positive,2025-08-17 17:30:00
+Long wait time.,Negative,2025-08-17 17:40:00
+Clean restrooms.,Positive,2025-08-17 17:50:00
+Music was relaxing.,Neutral,2025-08-17 18:00:00
+Food was bland.,Negative,2025-08-17 18:10:00
+Great desserts!,Positive,2025-08-17 18:20:00
+Ambiance was dull.,Negative,2025-08-17 18:30:00
+Nice presentation.,Positive,2025-08-17 18:40:00
+Average service.,Neutral,2025-08-17 18:50:00
+Too crowded.,Negative,2025-08-17 19:00:00
+Loved the vegan options!,Positive,2025-08-17 19:10:00
+Food was bland.,Negative,2025-08-17 19:20:00
+Staff was friendly.,Positive,2025-08-17 19:30:00
+Decor was unique.,Neutral,2025-08-17 19:40:00

@@ -1,0 +1,9 @@
+# Core dependencies
+pandas
+matplotlib
+seaborn
+plotly
+openai
+langchain
+llama-index
+transformers

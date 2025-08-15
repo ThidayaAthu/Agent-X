@@ -82,5 +82,3 @@ See `data/sample_sentiment_plot.png` for a sample output image.
 - [x] Sample plot image in `data/sample_sentiment_plot.png`
 - [x] Demo notebook in `notebooks/demo.ipynb`
 - [x] Updated `README.md` with setup, usage, and sample outputs
-
-Upload all code, data, and outputs to your GitHub repository as per instructions.

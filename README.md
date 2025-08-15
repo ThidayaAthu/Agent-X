@@ -77,8 +77,6 @@ See `data/sample_sentiment_plot.png` for a sample output image.
 - [Kaggle Restaurant Reviews Dataset](https://www.kaggle.com/datasets)
 
 ## Submission
-
-## GitHub Submission Checklist
 - [x] All code files in `agents/`
 - [x] Synthetic dataset in `data/restaurant_reviews.csv`
 - [x] Sample plot image in `data/sample_sentiment_plot.png`

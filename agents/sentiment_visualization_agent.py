@@ -1,6 +1,11 @@
 """
 Sentiment Visualization Agent for SteamNoodles
 Generates sentiment trend plots from review data over a selected date range.
+
+Author: Thidaya Kaumada Athukorala
+University: NSBM Green University
+Faculty: Faculty of Computing
+Year: 2025
 """
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -10,17 +15,34 @@ from typing import Optional
 DATA_PATH = "d:/Agent X/data/restaurant_reviews.csv"  # Update with your dataset path
 
 
-def plot_sentiment_trends(start_date: str, end_date: str, save_path: Optional[str] = None):
+def plot_sentiment_trends(start_date: str, end_date: str, save_path: Optional[str] = None) -> None:
     """
     Plots sentiment trends between start_date and end_date (YYYY-MM-DD).
+    Handles missing or malformed data gracefully.
+    Args:
+        start_date (str): Start date in 'YYYY-MM-DD' format.
+        end_date (str): End date in 'YYYY-MM-DD' format.
+        save_path (Optional[str]): If provided, saves the plot to this path.
     """
-    # Load data
-    df = pd.read_csv(DATA_PATH)
-    df['timestamp'] = pd.to_datetime(df['timestamp'])
-    df = df[(df['timestamp'] >= start_date) & (df['timestamp'] <= end_date)]
+    try:
+        # Load data
+        df = pd.read_csv(DATA_PATH)
+    except FileNotFoundError:
+        print(f"Error: Data file not found at {DATA_PATH}")
+        return
+    except Exception as e:
+        print(f"Error loading data: {e}")
+        return
+
+    try:
+        df['timestamp'] = pd.to_datetime(df['timestamp'])
+        df = df[(df['timestamp'] >= start_date) & (df['timestamp'] <= end_date)]
+    except Exception as e:
+        print(f"Error processing timestamps: {e}")
+        return
 
     # Normalize sentiment values
-    df['sentiment'] = df['sentiment'].str.strip().str.capitalize()
+    df['sentiment'] = df['sentiment'].astype(str).str.strip().str.capitalize()
     # Ensure only expected sentiments
     df = df[df['sentiment'].isin(['Positive', 'Negative', 'Neutral'])]
 
